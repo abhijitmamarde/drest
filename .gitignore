@@ -1,3 +1,5 @@
 *.egg-info
 *.py[co]
 __pycache__
+.drest_env/*
+tutorial/db.sqlite3
